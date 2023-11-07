@@ -7,3 +7,8 @@
 header{
     background-color: blueviolet;
 }
+
+main{
+    background-color: aqua;
+    border: solid 3px red;
+}
